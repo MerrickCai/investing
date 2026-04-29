@@ -1,0 +1,80 @@
+[
+  {
+    "ticker": "AVGO",
+    "companyName": "Broadcom",
+    "quantity": 3,
+    "costPrice": 400,
+    "currentPrice": 400,
+    "sector": "Semiconductors",
+    "themeTags": [
+      "AI networking",
+      "custom silicon",
+      "infrastructure"
+    ]
+  },
+  {
+    "ticker": "AMD",
+    "companyName": "Advanced Micro Devices",
+    "quantity": 5,
+    "costPrice": 329,
+    "currentPrice": 329,
+    "sector": "Semiconductors",
+    "themeTags": [
+      "AI accelerators",
+      "semiconductor recovery",
+      "data center"
+    ]
+  },
+  {
+    "ticker": "ETN",
+    "companyName": "Eaton",
+    "quantity": 4,
+    "costPrice": 413.5,
+    "currentPrice": 413.5,
+    "sector": "Industrials",
+    "themeTags": [
+      "electrical infrastructure",
+      "AI data center power",
+      "quality compounder"
+    ]
+  },
+  {
+    "ticker": "TSM",
+    "companyName": "Taiwan Semiconductor Manufacturing",
+    "quantity": 4,
+    "costPrice": 392,
+    "currentPrice": 392,
+    "sector": "Semiconductors",
+    "themeTags": [
+      "foundry",
+      "AI chips",
+      "supply chain quality"
+    ]
+  },
+  {
+    "ticker": "AMZN",
+    "companyName": "Amazon",
+    "quantity": 3,
+    "costPrice": 260,
+    "currentPrice": 260,
+    "sector": "Consumer Discretionary",
+    "themeTags": [
+      "AWS",
+      "AI cloud",
+      "operating leverage"
+    ]
+  },
+  {
+    "ticker": "MRVL",
+    "companyName": "Marvell Technology",
+    "quantity": 10,
+    "costPrice": 157,
+    "currentPrice": 157,
+    "sector": "Semiconductors",
+    "themeTags": [
+      "AI networking",
+      "custom silicon",
+      "data center"
+    ]
+  }
+]

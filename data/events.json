@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-04-29",
+    "ticker": "BE",
+    "eventType": "guidance",
+    "headline": "Bloom Energy rallies after strong earnings and raised guidance",
+    "summary": "Market is rewarding the combination of earnings validation and AI data center power demand.",
+    "impact": "bullish",
+    "source": "manual note",
+    "confidence": 8
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "NXPI",
+    "eventType": "earnings",
+    "headline": "NXP beats expectations and gives stronger Q2 guide",
+    "summary": "Auto and industrial chip recovery narrative gained credibility after the report.",
+    "impact": "bullish",
+    "source": "manual note",
+    "confidence": 8
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "NOK",
+    "eventType": "sector_rotation",
+    "headline": "Nokia sees volume as AI/cloud networking infrastructure gets revalued",
+    "summary": "Move appears tied to broader infrastructure rotation more than company-specific fundamental proof.",
+    "impact": "bullish",
+    "source": "manual note",
+    "confidence": 6
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "AMD",
+    "eventType": "sector_rotation",
+    "headline": "Semiconductor and AI funding rotates back into AMD",
+    "summary": "Market is giving AI accelerator exposure another look after sector risk appetite improves.",
+    "impact": "bullish",
+    "source": "manual note",
+    "confidence": 7
+  }
+]

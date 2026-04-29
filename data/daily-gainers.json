@@ -1,0 +1,58 @@
+[
+  {
+    "date": "2026-04-29",
+    "ticker": "BE",
+    "gainPercent": 16.4,
+    "reason": "财报强 + 上调指引，AI 数据中心供电逻辑。",
+    "theme": "AI data center power",
+    "followUpNeeded": true
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "NXPI",
+    "gainPercent": 9.2,
+    "reason": "财报超预期 + Q2 指引强，汽车/工业芯片复苏。",
+    "theme": "auto and industrial recovery",
+    "followUpNeeded": true
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "NOK",
+    "gainPercent": 8.7,
+    "reason": "AI/cloud 网络基础设施重估，成交量放大。",
+    "theme": "AI cloud networking",
+    "followUpNeeded": true
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "INTC",
+    "gainPercent": 7.8,
+    "reason": "半导体反转资金 + 公司改善预期。",
+    "theme": "semiconductor recovery",
+    "followUpNeeded": true
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "STX",
+    "gainPercent": 7.4,
+    "reason": "AI 数据存储需求，存储链强势。",
+    "theme": "AI storage",
+    "followUpNeeded": true
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "WDC",
+    "gainPercent": 6.9,
+    "reason": "跟随存储链，受 AI 存储逻辑带动。",
+    "theme": "AI storage",
+    "followUpNeeded": true
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "AMD",
+    "gainPercent": 5.8,
+    "reason": "半导体/AI 资金回流。",
+    "theme": "AI accelerators",
+    "followUpNeeded": true
+  }
+]

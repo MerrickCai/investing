@@ -1,0 +1,134 @@
+[
+  {
+    "ticker": "ANET",
+    "companyName": "Arista Networks",
+    "sector": "Technology",
+    "theme": "AI networking",
+    "reason": "Data center switching demand remains a clean AI infrastructure extension.",
+    "risk": "Valuation can compress if cloud capex slows.",
+    "cleanlinessScore": 9,
+    "momentumScore": 8,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "VRT",
+    "companyName": "Vertiv",
+    "sector": "Industrials",
+    "theme": "AI data center power",
+    "reason": "Power and cooling demand is directly tied to AI data center buildout.",
+    "risk": "High expectations after a large rerating.",
+    "cleanlinessScore": 9,
+    "momentumScore": 8,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "TSM",
+    "companyName": "Taiwan Semiconductor Manufacturing",
+    "sector": "Semiconductors",
+    "theme": "AI chips",
+    "reason": "Core foundry bottleneck for advanced AI silicon.",
+    "risk": "Geopolitical risk and customer concentration.",
+    "cleanlinessScore": 9,
+    "momentumScore": 7,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "AVGO",
+    "companyName": "Broadcom",
+    "sector": "Semiconductors",
+    "theme": "AI networking",
+    "reason": "Custom silicon and networking exposure are validated by hyperscaler demand.",
+    "risk": "Large-cap valuation leaves less room for disappointment.",
+    "cleanlinessScore": 8,
+    "momentumScore": 8,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "NXPI",
+    "companyName": "NXP Semiconductors",
+    "sector": "Semiconductors",
+    "theme": "auto and industrial recovery",
+    "reason": "Earnings and guidance suggest cyclical recovery is improving.",
+    "risk": "Auto demand can remain uneven.",
+    "cleanlinessScore": 8,
+    "momentumScore": 8,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "ETN",
+    "companyName": "Eaton",
+    "sector": "Industrials",
+    "theme": "electrical infrastructure",
+    "reason": "Clean data center electrification exposure with quality fundamentals.",
+    "risk": "Premium multiple and crowded AI power trade.",
+    "cleanlinessScore": 9,
+    "momentumScore": 7,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "NOK",
+    "companyName": "Nokia",
+    "sector": "Communication Equipment",
+    "theme": "AI cloud networking",
+    "reason": "Possible infrastructure revaluation as AI/cloud networking demand broadens.",
+    "risk": "Business quality and growth consistency are weaker than best-in-class peers.",
+    "cleanlinessScore": 6,
+    "momentumScore": 8,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "CIEN",
+    "companyName": "Ciena",
+    "sector": "Communication Equipment",
+    "theme": "optical networking",
+    "reason": "Optical transport could benefit from AI traffic growth.",
+    "risk": "Carrier spending cycles can delay the thesis.",
+    "cleanlinessScore": 7,
+    "momentumScore": 6,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "COHR",
+    "companyName": "Coherent",
+    "sector": "Technology Hardware",
+    "theme": "optical components",
+    "reason": "Optical component demand has leverage to AI networking upgrades.",
+    "risk": "Balance sheet and execution risk require confirmation.",
+    "cleanlinessScore": 6,
+    "momentumScore": 7,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "LITE",
+    "companyName": "Lumentum",
+    "sector": "Technology Hardware",
+    "theme": "optical components",
+    "reason": "Potential beneficiary of AI optical demand and sector recovery.",
+    "risk": "Turnaround proof is less clean than the theme.",
+    "cleanlinessScore": 6,
+    "momentumScore": 6,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "STX",
+    "companyName": "Seagate Technology",
+    "sector": "Technology Hardware",
+    "theme": "AI storage",
+    "reason": "Storage demand narrative is improving with AI data growth.",
+    "risk": "Cyclical storage trade can reverse quickly after spikes.",
+    "cleanlinessScore": 7,
+    "momentumScore": 9,
+    "lastReviewedAt": "2026-04-29"
+  },
+  {
+    "ticker": "WDC",
+    "companyName": "Western Digital",
+    "sector": "Technology Hardware",
+    "theme": "AI storage",
+    "reason": "Follows the storage cycle recovery and AI storage demand narrative.",
+    "risk": "More sentiment-sensitive after large moves.",
+    "cleanlinessScore": 6,
+    "momentumScore": 8,
+    "lastReviewedAt": "2026-04-29"
+  }
+]
